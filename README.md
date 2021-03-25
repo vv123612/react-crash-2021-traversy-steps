@@ -1,9 +1,9 @@
-Added Button's event (37:46)
+Added Tasks components and rendered \
+40:18​ - Tasks Component \
+41:03​ - Create a list with .map() \
 
-From 37:46  to 40:18
-
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2057s \
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2418s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2463s \
 
 
 ## Available Scripts
