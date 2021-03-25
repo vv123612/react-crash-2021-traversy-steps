@@ -1,8 +1,10 @@
-Added Task Component (text, day) (46:52​)\
-46:52​ - Task Component
+Added delete task and message if no tasks (51:41​​, 55:50​)
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2812s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2970s
+51:41​ - Delete task & prop drilling \
+55:50​ - Optional message if no tasks
+
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3101s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3350s
 
 
 ## Available Scripts
