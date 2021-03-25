@@ -1,5 +1,7 @@
-Added hello world. Deleted templated files. 20:50
+Added Header component. 
+From 20:50 to 34:17
 https://youtu.be/w7ejDZ8SWv8?t=1250
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2057s
 
 ## Available Scripts
 
