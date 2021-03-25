@@ -1,9 +1,10 @@
-Added Tasks components and rendered \
-40:18​ - Tasks Component \
-41:03​ - Create a list with .map() \
+Added Hooks for Tasks in global state 
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2418s \
+43:07​ - State & useState Hook \
+44:55​ - Global state
+
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2463s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2695s
 
 
 ## Available Scripts
