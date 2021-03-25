@@ -1,7 +1,10 @@
-Added Header component. 
-From 20:50 to 34:17
-https://youtu.be/w7ejDZ8SWv8?t=1250
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2057s
+Added Button component. 
+
+From 34:17 to 37:46 
+
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2057s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2266s \
+
 
 ## Available Scripts
 
