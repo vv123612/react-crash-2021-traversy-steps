@@ -1,9 +1,9 @@
-Added Button component. 
+Added Button's event (37:46)
 
-From 34:17 to 37:46 
+From 37:46  to 40:18
 
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2057s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2266s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2418s \
 
 
 ## Available Scripts
