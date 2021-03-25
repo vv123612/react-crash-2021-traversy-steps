@@ -1,10 +1,8 @@
-Added Hooks for Tasks in global state 
+Added Task Component (text, day) (46:52​)\
+46:52​ - Task Component
 
-43:07​ - State & useState Hook \
-44:55​ - Global state
-
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2463s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2695s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2812s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2970s
 
 
 ## Available Scripts
