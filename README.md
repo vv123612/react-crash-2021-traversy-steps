@@ -1,8 +1,14 @@
-Added Toggle reminder & conditional styling (56:58​)
+Added Task Form with handlers (1:03:13​)
 
-56:58​ - Toggle reminder & conditional styling
+1:03:13​ - Add Task Form \
+1:06:16​ - Form input state (controlled components) \
+1:09:18​ - Add task submit \
+1:14:36​ - showAddTask state
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3418s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3793s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3976s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4158s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4476s
 
 
 ## Available Scripts
