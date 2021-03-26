@@ -28,11 +28,24 @@ function App() {
   ])
 
   const deleteTask = (id) => {
-    console.log('delete', id)
-    console.log(tasks)
-    console.log(id)
+    // console.log('delete', id)
+    // console.log(tasks)
+    // console.log(id)
     
     setTasks(tasks.filter((task) => task.id !== id))
+  }
+
+  const toggleReminder = (id) => {
+    // console.log(id)
+    setTasks(
+
+      // substitute field reminder on opposite
+      // ...task keep all field for task like they was before toggling
+      tasks.map((task) => 
+      task.id === id ?{...task, reminder:!task.reminder} :task
+      
+      )
+    )    
   }
 
   return (
@@ -44,6 +57,7 @@ function App() {
         <Tasks
           tasks={tasks}
           onDelete={deleteTask}
+          onToggle={toggleReminder}
         />
       ) : (
         'No Tasks To Show'

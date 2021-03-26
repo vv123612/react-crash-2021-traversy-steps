@@ -1,10 +1,8 @@
-Added delete task and message if no tasks (51:41​​, 55:50​)
+Added Toggle reminder & conditional styling (56:58​)
 
-51:41​ - Delete task & prop drilling \
-55:50​ - Optional message if no tasks
+56:58​ - Toggle reminder & conditional styling
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3101s
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3350s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3418s
 
 
 ## Available Scripts
