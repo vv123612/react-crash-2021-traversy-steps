@@ -1,14 +1,8 @@
-Added Task Form with handlers (1:03:13​)
+Added Button toggle (1:15:58​)
 
-1:03:13​ - Add Task Form \
-1:06:16​ - Form input state (controlled components) \
-1:09:18​ - Add task submit \
-1:14:36​ - showAddTask state
+1:15:58​ - Button toggle
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3793s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3976s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4158s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4476s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4558s
 
 
 ## Available Scripts
