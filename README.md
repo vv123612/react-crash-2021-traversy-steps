@@ -1,11 +1,14 @@
-Aded json-server. Clean task array  (1:21:51)
+Switched getting data from json-server (1:25:53​)
 
-Install json-server \
-1:21:51​ - JSON Server \
-!!!!Now default tasks array empty. !!!!
+1:25:53​ - useEffect Hook & Fetch tasks from server \
+1:30:13​ - Delete task from server \
+1:31:51​ - Add task to server \
+1:35:15​ - Toggle reminder on server
 
-
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4911s
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5153s \ 
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5413s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5511s \
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5715s \
 
 
 ## Install json-server
