@@ -1,9 +1,20 @@
-Added Button toggle (1:15:58​)
+Aded json-server. Clean task array  (1:21:51)
 
-1:15:58​ - Button toggle
+Install json-server \
+1:21:51​ - JSON Server \
+!!!!Now default tasks array empty. !!!!
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4558s
 
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4911s
+
+
+## Install json-server
+npm i json-server
+
+add in package.json for start server\
+"server": "json-server --watch db.json --port 5000"
+
+Date will be storage in a db.json
 
 ## Available Scripts
 
@@ -16,3 +27,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+
+### Run the JSON server (http://localhost:5000)
+
+```
+npm run server
+```
