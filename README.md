@@ -1,15 +1,11 @@
-Switched getting data from json-server (1:25:53​)
+Added Routing, footer & about (1:39:15)
 
-1:25:53​ - useEffect Hook & Fetch tasks from server \
-1:30:13​ - Delete task from server \
-1:31:51​ - Add task to server \
-1:35:15​ - Toggle reminder on server
+installed extra package \ 
+npm i react-router-dom
 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5153s \ 
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5413s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5511s \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5715s \
+1:39:15​ - Routing, footer & about
 
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5955s
 
 ## Install json-server
 npm i json-server
