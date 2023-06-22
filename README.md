@@ -1,3 +1,4 @@
+## Last changes
 Added Routing, footer & about (1:39:15)
 
 installed extra package \ 
@@ -15,21 +16,40 @@ add in package.json for start server\
 
 Date will be storage in a db.json
 
-## Available Scripts
+# Installation
 
-In the project directory, you can run:
+1. run docker-compose.yaml
+2. attach to container
+3. npm install
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+# RUN
+
+## Run the JSON server (http://localhost:5000/tasks)
+
+```
+npm run server
+```
+
+
+## Run react (http://localhost:3000)
+
+```
+npm start
+```
+
+# USE
+
+
+## react app
+http://localhost:3000 
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-### Run the JSON server (http://localhost:5000)
+## JSON server  - test api
+http://localhost:5000/tasks
 
-```
-npm run server
-```

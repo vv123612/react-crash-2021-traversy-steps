@@ -1,0 +1,30 @@
+---
+version: "2.1"
+services:
+
+  nodejs:
+    # image: dev_nodejs
+    image: node:14-bullseye
+    container_name: dev_nodejs_redux
+    restart: always
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t    
+    user: node
+    working_dir: /scripts
+
+    # command: npm run dev
+
+
+    volumes:
+      - ".:/scripts"
+      # - "/media/data/shared_folders/lfs2:/lfs"
+      # - "/media/data/shared_folders:/shared_folders"
+      # - "~/.ssh:/home/lfs/.ssh"
+      # - "/media/data/project_my:/project_my"
+
+    ports:
+      - 3000:3000
+      - 5000:5000
+      - 8081:8081
+
+      
